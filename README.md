@@ -8,7 +8,7 @@ You're free to explore the GitHub but presently, the best steps to start with ar
 
 2. Whether or not you wish to play with our testnet at this time, starring our repos, especially **Weave** and **IOV-Core**, is a great way to stay updated. **Follow these links to view these repos and star them**: [Weave](https://github.com/iov-one/weave "Weave Repository"), [IOV-Core](https://github.com/iov-one/iov-core "IOV-Core Repository").
 
-
+If you have questions about the project then we encourage you to drop into our Mattermost chat. You can sign up [here](https://t.co/Bb2DBHDLUQ "IOV Community Chat") for the #Community channel, and if you let us know that you're a dev we’ll invite you to our #Developers channel!
 
 # Introduction to IOV
 
