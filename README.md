@@ -12,7 +12,7 @@ You're free to explore the GitHub but presently, the best steps to start with ar
 
 # Introduction to IOV
 
-We're building an interoperability solution for the blockchain industry that will be open source and totally decentralized. Our universal wallet with cross chain atomic swaps and human friendly address formats is already a working prototype. This wallet makes using blockchain tokens as easy for regular consumers as sending and receiving email. Our product suite thus solves user experience problems that we believe must be solved in order to bring blockchain tech into mainstream mass adoption. The product suite provides mutual benefits to various parties in the blockchain ecosystem (not only end users but also blockchain developers, app creators, entrepreneurs, and network miners) in order to facilitate its adoption by the industry.
+We're building an interoperability solution for the blockchain industry that will be open source and totally decentralized. Our universal wallet with cross chain atomic swaps and human friendly address formats is already a working prototype. This wallet makes using blockchain tokens as easy for regular consumers as sending and receiving email. Our product suite thus solves user experience problems that we believe must be solved in order to bring blockchain tech into mainstream mass adoption. By design, the product suite also offers mutual benefits to key parties in the blockchain ecosystem (not only end users but also blockchain devs, app creators, entrepreneurs, and network miners) in order to facilitate widespread industry adoption.
 
 To briefly introduce the product suite:
 
