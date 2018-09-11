@@ -6,7 +6,7 @@ You're free to explore the GitHub but presently, the best steps to start with ar
 
 1. If you're interested in playing with our public testnet, the guide for doing that is [here](https://github.com/iov-one/iov-core/blob/master/packages/iov-core/README.md "How to Use IOV-Core").
 
-2. Whether or not you want to play with our testnet at this time, starring our repositories, especially **Weave** and **IOV-Core**, is a great way to stay up to date with our development. **Follow these links to view these repos and star them**: [Weave](https://github.com/iov-one/weave "Weave Repository"), [IOV-Core](https://github.com/iov-one/iov-core "IOV-Core Repository").
+2. Whether or not you want to play with our testnet at this time, starring our repos, especially **Weave** and **IOV-Core**, is a great way to stay up to date with our development. **Follow these links to view these repos and star them**: [Weave](https://github.com/iov-one/weave "Weave Repository"), [IOV-Core](https://github.com/iov-one/iov-core "IOV-Core Repository").
 
 
 
