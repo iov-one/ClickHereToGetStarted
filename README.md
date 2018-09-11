@@ -1,4 +1,3 @@
-# CLICK-HERE-TO-GET-STARTED
 We'll point you to the docs and repos you need to get started: first, this README contains a "How to Get Started" section and further below, we have included a brief introduction to IOV for those not already familiar with the project. 
 
 # How to Get Started
