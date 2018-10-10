@@ -2,6 +2,18 @@ We'll point you to the docs and repos you need to get started: first, this READM
 
 # How to Get Started
 
+would it make sense to start the document with something like this (i am not tech enough to write it correctly but hopefully you get the idea):
+
+- we are building technology to run a blockchain of names, the BNS, and build clients for our blockchain. The code to do this is in iov-one/weave. You can run a validator of the blockchain by running _this_code_ and you can build a client to the blockchain by using _this_code_
+
+- we are also building a technology that allows you to build apps that can access all blockchains. We are still at the beginning, but you can start building an app that works with <tendermint and lisk> at the moment, soon ethereum, by using our library iov-core, follow _here_ to get started. <we can talk of atomic swap here if it works?>
+
+- we have build the first app with iov-core, the IOV Wallet, and you can see how iov-core is used and add functionalities in this project _iov-one/iov-wallet_.
+
+<and if the BCP specs are ready to share, we can also be explicit about where the code is and how people can use it to enhance iov-core>
+
+does it make sense?
+
 You're free to explore the GitHub but presently, the best steps to start with are:
 
 1. If you're interested in playing with our public testnet, the guide for doing that is [here](https://github.com/iov-one/iov-core/blob/master/packages/iov-core/README.md "How to Use IOV-Core").
