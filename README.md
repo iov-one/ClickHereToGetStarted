@@ -1,24 +1,28 @@
+# Welcome to IOV
+
 We'll point you to the docs and repos you need to get started: first, this README contains a "How to Get Started" section and further below, we have included a brief introduction to IOV for those not already familiar with the project. 
+
+IOV is working on making life easier for blockchain users. 
+
+We are providing a Blockchain Name Service which is a register for names used in the blockchain ecosystem, such as personal value addresses, asset names, blockchain names for developers or companies. We believe naming things makes them easier to use for everyone. 
+
+We are also providing a toolkit to build apps that can easily use and swap all assets from all blockchains. We believe the future of apps is there.
+
+Enjoy and please send us feedbacks !
 
 # How to Get Started
 
-would it make sense to start the document with something like this (i am not tech enough to write it correctly but hopefully you get the idea):
+We are building technology to **run a blockchain of names**, the BNS, and build clients for our blockchain. The code to do this is in [Weave](https://github.com/iov-one/weave "Weave Repository"). You can run a validator of the blockchain by running a code released soon and you can build a client to the blockchain by using [iov-cli](https://github.com/iov-one/iov-core/blob/master/packages/iov-cli/README.md "IOV-Client Repository").
 
-- we are building technology to run a blockchain of names, the BNS, and build clients for our blockchain. The code to do this is in iov-one/weave. You can run a validator of the blockchain by running _this_code_ and you can build a client to the blockchain by using _this_code_
+We are also building a technology that allows you to **build apps that can access all blockchains**. We are still at the beginning, but you can start building an app that works with Tendermint, Lisk and Rise at the moment, soon ethereum, by using our library **iov-core**. Click [here](https://iov-one.github.io/iov-core-docs/latest/iov-core/index.html "How to Use IOV-Core") to get started.
 
-- we are also building a technology that allows you to build apps that can access all blockchains. We are still at the beginning, but you can start building an app that works with <tendermint and lisk> at the moment, soon ethereum, by using our library iov-core, follow _here_ to get started. <we can talk of atomic swap here if it works?>
+We have build the first app with iov-core, the **IOV Wallet**, and you can see how iov-core is used and adapted for UI via BCP-Redux. You can use the adaptor from IOV-Core to Redux here: [BCP-redux](https://github.com/iov-one/bcp-redux "BCP-redux repository") and the specific implementation of the [IOV-Wallet](https://github.com/iov-one/iov-wallet "IOV Wallet Repository") (still work in progress, watch it).
 
-- we have build the first app with iov-core, the IOV Wallet, and you can see how iov-core is used and add functionalities in this project _iov-one/iov-wallet_.
+Finally, if you are running a blockchain technology and want **to be compatible with IOV-Core**, we will release full BCP specifications soon. In the meantime, you can start looking at creating your code [here](https://github.com/iov-one/iov-core/tree/master/packages/iov-bns "Codec") and then create a rpc library - create a codec - create compatible signing library inside the codec.
 
-<and if the BCP specs are ready to share, we can also be explicit about where the code is and how people can use it to enhance iov-core>
+You're free to explore the GitHub, all feedbacks are welcome!
 
-does it make sense?
-
-You're free to explore the GitHub but presently, the best steps to start with are:
-
-1. If you're interested in playing with our public testnet, the guide for doing that is [here](https://github.com/iov-one/iov-core/blob/master/packages/iov-core/README.md "How to Use IOV-Core").
-
-2. Whether or not you wish to play with our testnet at this time, starring our repos, especially **Weave** and **IOV-Core**, is a great way to stay updated. **Follow these links to view these repos and star them**: [Weave](https://github.com/iov-one/weave "Weave Repository"), [IOV-Core](https://github.com/iov-one/iov-core "IOV-Core Repository").
+# Get in touch, give feedback and ask questions
 
 If you have questions about the project then we encourage you to drop into our Mattermost chat. You can sign up [here](https://t.co/Bb2DBHDLUQ "IOV Community Chat") for the #Community channel, and if you let us know that you're a dev we’ll invite you to our #Developers channel!
 
