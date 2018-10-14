@@ -8,7 +8,7 @@ We are providing a Blockchain Name Service which is a register for names used in
 
 We are also providing a toolkit to build apps that can easily use and swap all assets from all blockchains. We believe the future of apps is there.
 
-Enjoy and please send us feedbacks !
+Enjoy and please send us feedback !
 
 # How to Get Started
 
