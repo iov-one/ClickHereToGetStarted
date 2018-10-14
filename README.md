@@ -18,7 +18,7 @@ We are also building a technology that allows you to **build apps that can acces
 
 We have built the first app with iov-core, the **IOV Wallet**, and you can see how iov-core is used and adapted for UI via BCP-Redux. You can use the adaptor from IOV-Core to Redux here: [BCP-redux](https://github.com/iov-one/bcp-redux "BCP-redux repository") and the specific implementation of the [IOV-Wallet](https://github.com/iov-one/iov-wallet "IOV Wallet Repository") (still work in progress, watch it).
 
-Finally, if you are running a blockchain technology and want **to be compatible with IOV-Core**, we will release full BCP specifications soon. In the meantime, you can start looking at creating your code [here](https://github.com/iov-one/iov-core/tree/master/packages/iov-bns "Codec") and then create a rpc library - create a codec - create compatible signing library inside the codec.
+Finally, if you are running a blockchain technology and want **to be compatible with IOV-Core**, we will release full BCP specifications soon. In the meantime, you can start looking at our [code](https://github.com/iov-one/iov-core/tree/master/packages/iov-bns "Codec") and our [documentation](https://iov-one.github.io/iov-core-docs/latest/iov-core/index.html "How to Use IOV-Core") to get familiar with how it all works.
 
 You're free to explore the GitHub, all feedbacks are welcome!
 
