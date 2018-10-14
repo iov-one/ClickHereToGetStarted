@@ -20,7 +20,7 @@ We have built the first app with iov-core, the **IOV Wallet**, and you can see h
 
 Finally, if you are running a blockchain technology and want **to be compatible with IOV-Core**, we will release full BCP specifications soon. In the meantime, you can start looking at our [code](https://github.com/iov-one/iov-core/tree/master/packages/iov-bns "Codec") and our [documentation](https://iov-one.github.io/iov-core-docs/latest/iov-core/index.html "How to Use IOV-Core") to get familiar with how it all works.
 
-You're free to explore the GitHub, all feedbacks are welcome!
+You're free to explore the GitHub, all feedback is welcome!
 
 # Get in touch, give feedback and ask questions
 
